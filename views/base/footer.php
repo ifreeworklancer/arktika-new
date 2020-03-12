@@ -40,7 +40,7 @@
                 </div>
                 <div class="col-md-auto">
                     <div class="footer-copyright">
-                        Дизайн и разработка сайта <a href="https://impressionbureau.pro/">Impression Bureau</a>
+                        Дизайн и разработка сайта <a href="https://impressionbureau.pro/" target="_blank">Impression Bureau</a>
                     </div>
                 </div>
             </div>
